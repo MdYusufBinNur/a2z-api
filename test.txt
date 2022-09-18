@@ -1,0 +1,15 @@
+
+        "code4mk/lara-nagad": "dev-master",
+        "": "^3.2",
+        "composer require fideloper/proxy": "^4.0",
+        "genealabs/laravel-model-caching": "*",
+        "hashids/hashids": "^4.1",
+        "intervention/image": "^2.5",
+        "laravel/horizon": "^3.3",
+        "laravel/passport": "^7.3",
+        "lcobucci/jwt": "3.3",
+        "league/flysystem-aws-s3-v3": "^1.0",
+        "predis/predis": "^1.1",
+        "propaganistas/laravel-phone": "^4.2",
+        "shipu/php-aamarpay-payment": "^1.2",
+        "spatie/laravel-image-optimizer": "^1.5"
